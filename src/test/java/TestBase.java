@@ -26,7 +26,7 @@ public class TestBase {
         }
 
 
-        driver = new ChromeDriver();
+
 
 
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
